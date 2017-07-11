@@ -2,9 +2,8 @@
 ## Ingredients
 
 - 175g (6oz) Kerrygold Pure Irish Butter
-- 2 tbsp Golden Syrup
 - 250g (8.8oz) Dark Chocolate (55-79% cocoa solids cut into pieces)
-- 280g (10oz) Rich Tea Biscuits
+- 280g (10oz) Plain hobnobs
 - 85g (3oz) Raisins
 - 85g (3oz) Chopped Roasted Hazelnuts
 
@@ -17,3 +16,9 @@
 - Stir well.
 - Spoon the chocolate mixture into the prepared tin, pressing it down well to get a smooth even surface.
 - When cool, chill in the fridge, then cut into squares.
+
+
+## Variations
+
+- Macadamia nuts instead of hazel nuts.
+- Halfway through cooling, sprinkle salt flakes on top.
