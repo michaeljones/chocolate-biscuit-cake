@@ -1,4 +1,8 @@
 
+# Chocolate Biscuit Cake
+
+Based on a recipe from the Kerrygold website.
+
 ## Ingredients
 
 - 175g (6oz) Kerrygold Pure Irish Butter
